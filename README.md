@@ -34,7 +34,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone (https://github.com/Shafruttersoftware/mapspage.git)
+git clone (https://github.com/Shafruttersoftware/Client_meeting_routes.git)
 Navigate to the Project Directory
 
 bash
