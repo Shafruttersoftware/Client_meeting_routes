@@ -39,7 +39,7 @@ Navigate to the Project Directory
 
 bash
 Copy code
-cd client-meeting-route
+cd Client_meeting_routes
 Install Dependencies
 
 bash
