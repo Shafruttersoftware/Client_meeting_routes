@@ -73,5 +73,5 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For support or inquiries, please contact flutterappdevelopershamina@gmail.com.
+For support or inquiries, please contact it@frutterlabs.com
 
